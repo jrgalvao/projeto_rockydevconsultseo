@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <!-- Instruções que não são vistas pelo usuário. -->
+
+  <link rel="shortcut icon" href="img/xd_favicon.ico" type="image/x-icon">
+  <title>Rocky_Teste</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="/css/estilo.css">
+</head>
+
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
+
+
+  <nav class="navbar navbar-default navbar-fixed-top bannerImg">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="" href="#myPage"><img src="img/logo_white.png" class="logo-nav" alt="Logomarca Rocky">
+        </a>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#sobre a rocky">SOBRE A ROCKY</a></li>
+          <li><a href="#serviços">SERVIÇOS</a></li>
+          <li><a href="#diferenciais">DIFERENCIAIS</a></li>
+          <li><a href="#trabalhe conosco">TRABALHE CONOSCO</a></li>
+          <li><a href="#contato">CONTATO</a></li>
+          <li><a href="#blog">BLOG</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="jumbotron text-center hero-title bannerImg">
+    <h1>FULL DIGITAL <br>PERFORMANCE</h1>
+    <div class="hero-description">
+      <p>
+       <h5>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+         <br>Quibusdam laudantium nihil exercitationem necessitatibus assumenda porro. 
+         <br>Quo soluta veniam dolor earum minima vel iure odio quas fugit, molestias sed ab ducimus?</h5>
+        <span class="change-1"></span>
+      </p>
+      </div>
+
+    <div class="input-group">
+
+      <div class="btn btn-lg botaoBanner">
+
+        ENTRE EM CONTATO AGORA
+      </div>
+    </div>
+
+  </div>
+
+
+  
+
+</body>
+
+</html>
